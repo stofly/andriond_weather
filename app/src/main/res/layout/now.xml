@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="80sp"
+        android:background="@drawable/mall_header_rel2_bg"
+        android:layout_margin="15sp"
+        >
+    <TextView
+            android:id="@+id/city_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="14dp"
+            android:layout_centerVertical="true" android:layout_alignParentLeft="true"
+            android:layout_marginLeft="14dp"/>
+    <TextView
+            android:id="@+id/dateTime_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="59dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="59dp"/>
+    <TextView
+            android:id="@+id/weather_info_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="97dp"
+            android:layout_centerVertical="true" android:layout_alignParentLeft="true"
+            android:layout_marginLeft="97dp"/>
+    <TextView
+            android:id="@+id/temperature_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="121dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="121dp"/>
+
+    <Button
+            android:layout_width="30sp"
+            android:layout_height="30dp"
+            android:background="@drawable/add"
+            android:onClick="add"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="12dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="12dp"/>
+</RelativeLayout>
