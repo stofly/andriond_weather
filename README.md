@@ -13,5 +13,6 @@ app中的聚合天气请求数据接口免费条数已经使用完毕
 ![](https://github.com/stofly/andriond_weather/blob/master/Screenshot_20190705_185237_xlr.com.sbcweather.jpg)
 城市选取
 ![](https://github.com/stofly/andriond_weather/blob/master/Screenshot_20190705_184845_xlr.com.sbcweather.jpg)
-常用城市管理
+
+常用城市管理（由于接口数量已使用完毕，可以在文件中自行修改key值）
 ![](https://github.com/stofly/andriond_weather/blob/master/Screenshot_20190705_185230_xlr.com.sbcweather.jpg)
