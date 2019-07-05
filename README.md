@@ -7,3 +7,5 @@ citypicker框架，首页加载数据库中的城市
 app中的聚合天气请求数据接口免费条数已经使用完毕
 
 图片：
+首页
+![](https://github.com/stofly/andriond_weather/blob/master/Screenshot_20190705_184832_xlr.com.sbcweather.jpg)
