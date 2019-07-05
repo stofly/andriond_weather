@@ -9,3 +9,9 @@ app中的聚合天气请求数据接口免费条数已经使用完毕
 图片：
 首页
 ![](https://github.com/stofly/andriond_weather/blob/master/Screenshot_20190705_184832_xlr.com.sbcweather.jpg)
+主页
+![](https://github.com/stofly/andriond_weather/blob/master/Screenshot_20190705_185237_xlr.com.sbcweather.jpg)
+城市选取
+![](https://github.com/stofly/andriond_weather/blob/master/Screenshot_20190705_184845_xlr.com.sbcweather.jpg)
+常用城市管理
+![](https://github.com/stofly/andriond_weather/blob/master/Screenshot_20190705_185230_xlr.com.sbcweather.jpg)
